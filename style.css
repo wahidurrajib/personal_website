@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Fondamento', cursive;
+}
+body{
+    max-width: 80%;
+    height: 100%;
+    margin: 0px auto;
+
+}
+
+.top{
+    background-image: url(images/header-bg.png);
+    background-size: 100% 100%;
+   
+}
+.middle-bg{
+    background-image: url(images/biography-bg.png);
+    background-size: 100% 100%;
+    
+}
+h2{
+    font-size: 30px;
+}
+.half-weight{
+    
+    width: 40%;
+    height: 80%;
+    padding: 2%;
+    margin-left: 3%;
+    float: left;
+    text-align: left;
+    height: 80%;
+    
+}
+
+.top-dwon{
+    margin-top: 5%;
+}
+
+.name-highlight{
+    color: rgb(226, 43, 202);
+}
+p{
+    text-align: justify;
+    color: dimgray;
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.batton{
+    background-image: linear-gradient(40deg,rgb(226, 43, 202), rgba(216, 115, 211, 0.856) );
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 5px 20px;
+    border-radius: 5px;
+
+}
+img{
+    width: 80%;
+}
+section{
+    padding: 5%;
+    
+    
+}
+.clear{
+    clear: both; 
+    height: 0px; 
+    padding: 0px;
+   }
+.leatest{
+    margin: auto;
+    background-image: url(images/latest-work-bg.png);
+    background-size: 100% 100%;
+
+    
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+h4{
+    text-align: center;
+    margin-top: 50px;
+}
+.image-gallary{
+    margin: auto;
+}
+.image-box{
+    width: 33%;
+    border-radius: 10px;
+    margin-top: 30px;
+    float: left;
+}
+.clint-section{
+    margin-top: 150px;
+    
+
+}
+.Owner{
+    
+    text-align: center;
+}
+#text{
+    text-align: center;
+    color: black;
+    margin-top: 30px;
+}
+.massge-me{
+    margin: auto;
+    background-image: linear-gradient(40deg,rgb(226, 43, 202), rgba(216, 115, 211, 0.856) );
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 10px;
+    width: 34%;
+    height: 80px;
+    color: white;
+    
+}
+.sand{
+    
+    padding: 0px;
+}
+.sand a{
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.link-details{
+    font-size: 15px;
+}
